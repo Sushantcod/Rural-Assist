@@ -1,0 +1,9 @@
+{
+  "name": "RuralAssist AI final",
+  "description": "An AI-powered digital farm manager designed to support farmers through intelligent crop advisory, irrigation management, weather analysis, and government scheme access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,22 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stems -->
+  <!-- Left Branch -->
+  <path d="M 128 140 Q 110 110 75 100" stroke="#8ec178" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <!-- Main Stem -->
+  <path d="M 128 175 Q 128 120 165 80" stroke="#8ec178" stroke-width="14" fill="none" stroke-linecap="round"/>
+  
+  <!-- Plant base to pot -->
+  <path d="M 128 175 L 128 165" stroke="#8ec178" stroke-width="14" fill="none" />
+
+  <!-- Right Leaf -->
+  <path d="M 128 135 C 150 110 180 50 215 65 C 235 95 180 145 128 135" fill="#2c5f3e"/>
+  
+  <!-- Left Leaf -->
+  <path d="M 128 135 C 100 110 60 70 45 90 C 30 115 80 145 128 135" fill="#2c5f3e"/>
+  
+  <!-- Pot -->
+  <!-- Inside Opening -->
+  <ellipse cx="128" cy="165" rx="73" ry="16" fill="#7d4b2d"/>
+  <!-- Pot Body -->
+  <path d="M 55 165 C 40 250 216 250 201 165 Z" fill="#bb6f3c"/>
+</svg>
