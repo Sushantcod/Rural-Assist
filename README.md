@@ -65,5 +65,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 <div align="center">
-  <p>Made with ❤️ by Sushant Chand</p>
+  <p>Made with ❤️ by Sushant Chand & Team</p>
 </div>
